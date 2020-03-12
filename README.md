@@ -26,6 +26,7 @@ The goal of this project is to show my portifolio to the world.
 * Webpack
 * Babel
 * Node.js
+* Command Line
 
 ## Setup
 * Installed Node.js and NPM
