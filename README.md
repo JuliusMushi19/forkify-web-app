@@ -15,7 +15,7 @@
 The goal of this project is to show my portifolio to the world.
 
 ## Screenshots
-![Example screenshot](./img/Forkify.PNG)
+![Forkify](./img/Forkify.PNG)
 
 ## Technologies
 * Visual Studio Code
