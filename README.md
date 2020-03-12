@@ -30,7 +30,8 @@ The goal of this project is to show my portifolio to the world.
 
 ## Setup
 * Installed Node.js and NPM
-* Configured Webpack
+* Installed and configured Webpack Dev Server
+* Installed Babel
 * Used MVC architecture
 
 ## Features
