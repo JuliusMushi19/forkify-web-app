@@ -37,6 +37,9 @@ The goal of this project is to show my portifolio to the world.
 ## Features
 Features ready:
 * Search for recipe
+* Display recipe and ingredients on UI
+* Add ingredients to shopping list
+* Like recipe
 
 To-do list:
 * None
@@ -45,7 +48,7 @@ To-do list:
 Project is: _finished_
 
 ## Inspiration
-Project based on online course I took with Udemy.
+Project based on online course I took on Udemy.
 
 ## Contact
 Created by Julius Mushi - feel free to contact me!
