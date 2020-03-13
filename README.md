@@ -32,7 +32,7 @@ The goal of this project is to show my portifolio to the world.
 * Installed Node.js and NPM
 * Installed and configured Webpack Dev Server
 * Installed Babel
-* Used MVC architecture
+* Implemented MVC architecture
 
 ## Features
 Features ready:
