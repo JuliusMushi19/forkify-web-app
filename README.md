@@ -1,5 +1,5 @@
 # Forkify Web App
-> A recipe searching web app.
+> A recipe searching web application.
 
 ## Table of contents
 * [General info](#general-info)
